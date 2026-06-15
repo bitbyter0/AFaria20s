@@ -12,7 +12,7 @@
 *building things that work*
 
 [![repos](https://img.shields.io/badge/repos-see%20all-1a1b27?style=flat-square&logo=github)](https://github.com/AFaria20s?tab=repositories)
-[![0x194OS](https://img.shields.io/badge/working%20on-5MinuteDiary-e06c75?style=flat-square)](https://github.com/AFaria20s/0x194OS)
+[![0x194OS](https://img.shields.io/badge/working%20on-0x194OS-e06c75?style=flat-square)](https://github.com/AFaria20s/0x194OS)
 
 </div>
 
